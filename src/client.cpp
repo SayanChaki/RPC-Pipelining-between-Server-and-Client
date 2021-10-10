@@ -1,21 +1,3 @@
-/*
-Client Program for Win32 Named Pipes Example.
-Copyright (C) 2012 Peter R. Bloomfield.
-
-For an exaplanation of the code, see the associated blog post:
-http://avidinsight.uk/2012/03/introduction-to-win32-named-pipes-cpp/
-
-This code is made freely available under the MIT open source license
-(see accompanying LICENSE file for details).
-It is intended only for educational purposes. and is provide as-is with no
-guarantee about its reliability, correctness, or suitability for any purpose.
-
-
-INSTRUCTIONS:
-
-Run the accompanying server program first.
-Before closing it, run this client program.
-*/
 
 #include <iostream>
 #include <windows.h>
